@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot, Microservices architecture, and advanced Java concurrency.
 - 💞️ I’m looking to collaborate on Java-based projects, particularly those involving backend development, microservices, or any innovative tech solutions.
 - 📫 How to reach me: 
-  - Email: nini1106@example.com
+  - Email: josephracheal902@gmail.com 
   - LinkedIn: https://www.linkedin.com/in/racheal-joseph/
   - GitHub: [Nini1106](https://github.com/Nini1106)
 - 😄 Pronouns: She/Her
