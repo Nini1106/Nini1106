@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Nini1106
+- 👀 I’m interested in developing robust and scalable Java applications, exploring new technologies, and contributing to open source projects.
+- 🌱 I’m currently learning Spring Boot, Microservices architecture, and advanced Java concurrency.
+- 💞️ I’m looking to collaborate on Java-based projects, particularly those involving backend development, microservices, or any innovative tech solutions.
+- 📫 How to reach me: 
+  - Email: nini1106@example.com
+  - LinkedIn: https://www.linkedin.com/in/racheal-joseph/
+  - GitHub: [Nini1106](https://github.com/Nini1106)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a big fan of algorithm challenges and often spend my weekends participating in coding competitions!
